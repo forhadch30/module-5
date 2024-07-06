@@ -130,3 +130,59 @@
     padding: 10px 18px 10px 18px;
     background: rgba(82, 195, 3, 0.15);
 }
+
+.imgss {
+    width: 400px;
+    height: 380px;
+}
+
+.card-f {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.backg {
+    background-color: bisque;
+    padding: 40px ;
+    height: 300px;
+
+}
+
+.fonts {
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0%;
+    width: 400px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.texts {
+    color: rgb(16, 16, 16);
+    font-family: Work Sans;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 14px;
+    letter-spacing: 0%;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.card1 {
+    box-sizing: border-box;
+    padding: 30px 10px 30px 10px;
+    opacity: 0.7;
+    border-top: 1px solid rgba(16, 16, 16, 0.2);
+    border-bottom: 1px solid rgba(16, 16, 16, 0.2);
+    text-align: center;
+}
+.card-con{
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-top: 10px;
+}
